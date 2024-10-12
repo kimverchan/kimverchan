@@ -1,6 +1,12 @@
-## Hi there 👋
-
+<div align=center>
+  <div>
+    <img src="./417173.jpeg" />
+  </div>
+<!--   <img src="https://octodex.github.com/images/original.png" width="150px" height="150px" center /> -->
+</div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimverchan)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ## Hi there 👋 -->
 
 <!--
 **kimverchan/kimverchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
